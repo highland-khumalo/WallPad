@@ -1,0 +1,2 @@
+# WallPad
+AI Wallpapers
